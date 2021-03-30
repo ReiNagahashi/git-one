@@ -1,0 +1,3 @@
+[submodule "test_clone"]
+	path = test_clone
+	url = https://github.com/ReiNagahashi/test_clone.git
